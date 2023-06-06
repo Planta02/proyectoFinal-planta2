@@ -1,0 +1,21 @@
+{
+  "name": "proyecto_final",
+  "version": "1.0.0",
+  "description": "Trabajo Final Lenguage de Programación 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Planta2",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.15.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "prisma": "^4.15.0"
+  }
+}
